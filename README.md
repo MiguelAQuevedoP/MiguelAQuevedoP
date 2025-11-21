@@ -3,11 +3,10 @@
 My name is Miguel, I am from Colombia.
 ### Contact information
 - Email: mquevedo@unicauca.edu.co
-- Instagram: [@miguelquevedo.bat](https://www.instagram.com/miguelquevedo.bat/)
 ---  
 ### About me
-- 🎓 student of the University of cauca
-- 🤓 Electronic engineering student
+- 🎓 University of cauca
+- 🤓 Electronic and Telecommunications engineering
 - 💻 Programming as a hobby
 ---
 ### Interest
